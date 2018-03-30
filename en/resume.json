@@ -1,0 +1,180 @@
+{
+  "basics": {
+    "name": "Nicolas Moreau",
+    "label": "Full Stack Developer",
+    "picture": "http://i.imgur.com/WR3agPx.jpg",
+    "email": "mrnqoe@gmail.com",
+    "phone": "(514) 812-2062",
+    "website": "http://nicomoreau.com",
+    "summary": "Junior Full Stack Developer, certified video geek and creative thinker. I am extremely passionate about new multimedia technologies and, despite my love for the outdoors, saying I enjoy on-screen problem solving and the documentation harvesting it usually implies, would be an understatement. I think the human factor of a product starts with the mulidisciplinary factor of a team. Aspects of a product like UEx fluidity and rationality or UI consistency are things I not only notice but also practice. More so, when I am done working on the configuration of an API or the security of my server. I look forward to joining a team of people that require my skill set in both Mutlimedia and web Technologies. Above all, I am looking for a team that, like me, strives for a perfect balance between efficiency and quality when it comes to digital content design.",
+    "location": {
+      "address": "123 Dobie av.",
+      "postalCode": "H3P 1S3",
+      "city": "Montréal",
+      "countryCode": "CA",
+      "region": "Québec"
+    },
+    "profiles": [
+      {
+        "network": "Github",
+        "username": "@mrnqoe",
+        "url": "https://github.com/mrnqoe"
+      },
+      {
+        "network": "Twitter",
+        "username": "@mrnqoe",
+        "url": "https://twitter.com/mrnqoe"
+      },
+      {
+        "network": "LinkedIn",
+        "username": "@mrnqoe",
+        "url": "https://www.linkedin.com/in/mrnqoe/"
+      }
+    ]
+  },
+  "work": [
+    {
+      "company": "Technicolor Creative Services",
+      "position": "Metadata Programmer",
+      "website": "http://www.technicolor.com/en/solutions-services/entertainment-services/creative-houses/technicolor-montreal",
+      "startDate": "2013-03-01",
+      "endDate": "2014-09-01",
+      "summary": "Content management and Distribution: Technicolor harnesses our 100-year expertise, robust infrastructure and technological agility, to support all of your content management and distribution requirements in this ever-changing landscape. Our comprehensive offering enables the efficient management and distribution of your dynamic content to the cinema, home and on-the-go.",
+      "highlights": [
+        "Creation of XSLT schema for CSV to XML transformation",
+        "Numerization (HTML) of workflow documentation",
+        "Designated moderator of the iTunes content delivery think tank"
+      ]
+    }
+  ],
+  "volunteer": [
+    {
+      "organization": "Juju Films",
+      "position": "Audiovisual recording technician",
+      "website": "http://www.imdb.com/title/tt2894034/",
+      "startDate": "2012-01-05",
+      "endDate": "2012-02-01",
+      "summary": "This timely documentary from filmmaker Alexandre Trudeau shows how the logic of empire is being tested by competing global interests in a rapidly changing Middle East",
+      "highlights": [
+        "Le Caire, Egypt",
+        "Colombo, Sri Lanka",
+        "Singapour, Singapour"
+      ]
+    }
+  ],
+  "education": [
+    {
+      "institution": "Lighthouse Labs",
+      "area": "Computer Software Craftsmanship",
+      "studyType": "Certificate",
+      "startDate": "2017-01-01",
+      "endDate": "2017-03-01",
+      "courses": [
+        "NodeJS",
+        "Javascript",
+        "Express",
+        "React",
+        "Ruby",
+        "Rails"
+      ]
+    },
+    {
+      "institution": "Université de Montreal",
+      "area": "Computer Programming",
+      "studyType": "Certificate",
+      "startDate": "2014-09-01",
+      "endDate": "2015-12-01",
+      "courses": [
+        "IFT1800 - Initiation à l'informatique",
+        "IFT1144 - Introduction à la programmation Internet",
+        "IFT1810 - Introduction à la programmation",
+        "IFT1166 - Programmation orientée objet en C++"
+      ]
+    }
+  ],
+  "skills": [
+    {
+      "name": "Software technologies",
+      "level": "Junior",
+      "keywords": [
+        "HTML5",
+        "CSS3",
+        "Javascript",
+        "React",
+        "Ruby",
+        "Rails",
+        "VueJS",
+        "NodeJS",
+        "Bash",
+        "Linux",
+        "PHP",
+        "Laravel"
+      ]
+    },
+    {
+      "name": "Video Editing",
+      "level": "Master",
+      "keywords": [
+        "Adobe After Effects",
+        "Adobe Premiere",
+        "AVID Media Composer",
+        "Magic Lantern",
+        "Canon 5DMk2",
+        "MAXON Cinema 4D"
+      ]
+    },
+    {
+      "name": "Photography",
+      "level": "Master",
+      "keywords": [
+        "Adobe Photoshop",
+        "Adobe Lightroom",
+        "HDR",
+        "Aurora Borealis"
+      ]
+    }
+  ],
+  "languages": [
+    {
+      "language": "French",
+      "fluency": "Native speaker"
+    },
+    {
+      "language": "English",
+      "fluency": "Fluent speaker"
+    }
+  ],
+  "interests": [
+    {
+      "name": "Technology",
+      "keywords": [
+        "Apple",
+        "Raspberry Pi",
+        "Wireless"
+      ]
+    },
+    {
+      "name": "Outdoors",
+      "keywords": [
+        "Running",
+        "Triathlon",
+        "Camping"
+      ]
+    },
+    {
+      "name": "Coffee",
+      "keywords": [
+        "Chemex",
+        "Aeropress",
+        "Siphon"
+      ]
+    },
+    {
+      "name": "Cinema and TV",
+      "keywords": [
+        "History",
+        "Science-Fiction & Fantasy"
+      ]
+    }
+  ]
+}

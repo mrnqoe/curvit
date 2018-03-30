@@ -1,0 +1,244 @@
+{
+  "basics": {
+    "name": "Nicolas Moreau",
+    "label": "Développeur Full Stack",
+    "picture": "http://i.imgur.com/WR3agPx.jpg",
+    "email": "mrnqoe@gmail.com",
+    "phone": "(514) 812-2062",
+    "website": "http://nicomoreau.com",
+    "summary": "Passionné par les nouvelles technologies, j'aime que celles-ci me permettent de trouver des solutions originales et innovatrices aux divers défis du quotidien. La fluidité, la logique et la constance de l’expérience-utilisateur sont au cœur de mon travail, car ces caractéristiques sont selon moi la marque d'un travail bien fait. Un autre élément clé du succès d'un projet est une équipe diverse, tant en termes d'expertise que d'expérience. Je désire me joindre à une telle équipe, au sein de laquelle je pourrai mettre à contribution mes connaissances et, par le fait même, les développer.",
+    "location": {
+      "address": "123 Dobie av.",
+      "postalCode": "H3P 1S3",
+      "city": "Montréal",
+      "countryCode": "CA",
+      "region": "Québec"
+    },
+    "profiles": [
+      {
+        "network": "Github",
+        "username": "@mrnqoe",
+        "url": "https://github.com/mrnqoe"
+      },
+      {
+        "network": "Twitter",
+        "username": "@mrnqoe",
+        "url": "https://twitter.com/mrnqoe"
+      },
+      {
+        "network": "LinkedIn",
+        "username": "@mrnqoe",
+        "url": "https://www.linkedin.com/in/mrnqoe/"
+      }
+    ]
+  },
+  "work": [
+    {
+      "company": "Momentum Travel Group",
+      "position": "Content Analyst",
+      "website": "http://momentumtravel.com",
+      "startDate": "2017-05-15",
+      "summary": "Consolidation de donnees reliees au compagnies aerienne et leurs politique de baggages. Conception d'un systeme de gestion des donnees. Laravel + VueJS",
+      "highlights": [
+        "Utilisation de Guzzle pour la verification des status de notre banque de url",
+        "Creation de \"Scheduled tasks\" pour le maintient des donnees",
+        "Moderateur designe du \"Slack channel\" associe au theme de la politique des baggages",
+        "Utilisation de Buefy (Bulma + VueJS) pour le conception de l'interface",
+        "Tache de development backend variees"
+      ]
+    },
+    {
+      "company": "Technicolor Services Créatifs",
+      "position": "Programmeur metadata",
+      "website": "http://www.technicolor.com/en/solutions-services/entertainment-services/creative-houses/technicolor-montreal",
+      "startDate": "2013-03-01",
+      "endDate": "2014-09-01",
+      "summary": "Les Services Entertainment de Technicolor sont dédiés à la création, l’optimisation et la gestion des contenus, ainsi qu’à leur distribution.",
+      "highlights": [
+        "Création de schémas XSLT pour la transformation de fichiers CSV en XML",
+        "Numérisation (HTML) de la documentation liée aux méthodes de travail en distribution et en assurance qualité",
+        "Modérateur du forumTechnicolor iTunes Think tank"
+      ]
+    },
+    {
+      "company": "@ici",
+      "position": "Pigiste multimedia",
+      "website": "https://www.nicomoreau.com/photo/",
+      "startDate": "2011-01-01",
+      "endDate": "2013-01-01",
+      "summary": "Photographie et videographie évenementielle."
+    },
+    {
+      "company": "CEPSUM, Université de Montréal",
+      "position": "Sauveteur",
+      "website": "http://www.cepsum.umontreal.ca/",
+      "startDate": "2011-08-01",
+      "endDate": "2008-11-01",
+      "summary": "Assurer la sécurité d’une piscine de dimension olympique et fournir les premiers soins à travers le centre sportif."
+    },
+    {
+      "company": "Starbucks",
+      "position": "Barista",
+      "website": "http://dinehere.ca/montreal/starbucks-st-marys-hospital",
+      "startDate": "2006-01-01",
+      "endDate": "2006-10-01",
+      "summary": "Assurer la sécurité d’une piscine de dimension olympique et fournir les premiers soins à travers le centre sportif."
+    }
+  ],
+  "volunteer": [
+    {
+      "organization": "The New Great Game, Juju Films",
+      "position": "Technicien en capture Audiovisuelle",
+      "website": "http://www.imdb.com/title/tt2894034/",
+      "startDate": "2012-01-05",
+      "endDate": "2012-02-01",
+      "summary": "Participation à la conception d'un documentaire sur les tensions géopolitiques internationales issues du Moyen-Orient. Participation au tournage dans les régions suivante:",
+      "highlights": [
+        "Londres, Grande-Bretagne",
+        "Le Caire, Égypte",
+        "Colombo, Sri Lanka",
+        "Singapour, Singapour"
+      ]
+    },
+    {
+      "organization": "Juripop / CIBL",
+      "position": "Technicien de capture audiovisuelle et monteur",
+      "website": "http://droitdecite.info/",
+      "startDate": "2012-09-01",
+      "endDate": "2013-04-01",
+      "summary": "Conception de capsules vidéo hebdomadaires pour le site Internet de l'émission de radio Droit de Cité. Ce projet avait pour objectif de stimuler le débat sur la place publique en proposant à chaque semaine des débats sur des thèmes variés et d’actualité (enjeux sociaux, environnementaux, économiques, juridiques, politiques et éthiques)."
+    }
+  ],
+  "education": [
+    {
+      "institution": "Lighthouse Labs",
+      "area": "Conception de logiciels informatiques",
+      "studyType": "Bootcamp",
+      "startDate": "2017-01-01",
+      "endDate": "2017-03-01",
+      "courses": [
+        "NodeJS",
+        "Javascript",
+        "Express",
+        "React",
+        "Ruby",
+        "Rails"
+      ]
+    },
+    {
+      "institution": "Université de Montréal",
+      "area": "Technologies de programmation web",
+      "studyType": "Cours",
+      "startDate": "2014-09-01",
+      "endDate": "2015-12-01",
+      "courses": [
+        "IFT1800 - Initiation à l'informatique",
+        "IFT1144 - Introduction à la programmation Internet",
+        "IFT1810 - Introduction à la programmation",
+        "IFT1166 - Programmation orientée objet en C++"
+      ]
+    },
+    {
+      "institution": "Collège Inter-Dec",
+      "area": "Montage vidéo (Arts numériques)",
+      "studyType": "AEC",
+      "startDate": "2011-01-01",
+      "endDate": "2012-01-01",
+      "courses": [
+        "IFT1800 - Initiation à l'informatique",
+        "IFT1144 - Introduction à la programmation Internet",
+        "IFT1810 - Introduction à la programmation",
+        "IFT1166 - Programmation orientée objet en C++"
+      ]
+    }
+  ],
+  "skills": [
+    {
+      "name": "Technologies Logiciel",
+      "level": "Advanced",
+      "keywords": [
+        "PHP",
+        "Laravel",
+        "Node",
+        "VueJS",
+        "HTML5",
+        "Javascript",
+        "CSS3",
+        "Java",
+        "React",
+        "Ruby",
+        "Rails",
+        "C++",
+        "Bash",
+        "Linux"
+      ]
+    },
+    {
+      "name": "Montage Vidéo",
+      "level": "Advanced",
+      "keywords": [
+        "Adobe After Effects",
+        "Adobe Premiere",
+        "AVID Media Composer",
+        "Magic Lantern",
+        "Canon 5DMk2",
+        "MAXON Cinema 4D"
+      ]
+    },
+    {
+      "name": "Photographie",
+      "level": "Advanced",
+      "keywords": [
+        "Adobe Photoshop",
+        "Adobe Lightroom",
+        "HDR",
+        "Aurora Borealis"
+      ]
+    }
+  ],
+  "languages": [
+    {
+      "language": "Français",
+      "fluency": "Langue maternelle"
+    },
+    {
+      "language": "Anglais",
+      "fluency": "Fluide"
+    }
+  ],
+  "interests": [
+    {
+      "name": "Technologie",
+      "keywords": [
+        "Apple",
+        "Raspberry Pi",
+        "Wireless"
+      ]
+    },
+    {
+      "name": "Plein air",
+      "keywords": [
+        "Running",
+        "Triathlon",
+        "Camping"
+      ]
+    },
+    {
+      "name": "Café",
+      "keywords": [
+        "Espresso",
+        "Chemex",
+        "Aeropress",
+        "Siphon",
+        "V60"
+      ]
+    },
+    {
+      "name": "Cinema et TV",
+      "keywords": [
+        "History",
+        "Science-Fiction et fantaisie"
+      ]
+    }
+  ]
+}
